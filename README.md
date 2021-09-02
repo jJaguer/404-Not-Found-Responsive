@@ -19,8 +19,8 @@
 
 ## Overview
 
-![screenshot](https://github.com/jJaguer/404-Not-Found-Responsive/blob/main/404%20Not%20Found.PNG)
-![screenshot](https://github.com/jJaguer/404-Not-Found-Responsive/blob/main/404%20Not%20Found%20Responsive.PNG)
+![screenshot](https://github.com/jJaguer/404-Not-Found-Responsive/blob/main/404%20Not%20Found%20Responsive.png)
+![screenshot](https://github.com/jJaguer/404-Not-Found-Responsive/blob/main/404%20Not%20Found.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
