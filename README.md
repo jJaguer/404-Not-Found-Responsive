@@ -12,9 +12,8 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 <!-- OVERVIEW -->
 
@@ -26,9 +25,13 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+-     R: Hi, you can see my jobs downloading the index.html and css in your pc... for now. 
 - What was your experience?
+-     R: I no have experience but i can do this kind of thing, I still haven't stopped learning.
 - What have you learned/improved?
+-     R: I have learned a lot these months of learning, I have been able to create different projects by myself and I hope to continue improving more and more :)
 - Your wisdom? :)
+-     R: Little ... or About the basics ... I haven't stopped learning! 
 
 ### Built With
 
@@ -36,14 +39,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - [HTML5]
 - [CSS]
-- [JAVASCRIPT]
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
-
 
 ## Acknowledgements
 
